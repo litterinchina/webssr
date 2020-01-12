@@ -1,0 +1,10 @@
+{
+  "server": "onplus.herokuapp.com",
+  "local_address": "0.0.0.0",
+  "scheme": "ws",
+  "local_port": 1080,
+  "remote_port": 8080,
+  "password": "ASD1244",
+  "timeout": 600,
+  "method": "aes-256-cfb"
+}
